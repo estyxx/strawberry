@@ -71,3 +71,7 @@
 - [Deployment](./operations/deployment.md)
 - [Testing](./operations/testing.md)
 - [Tracing](./operations/tracing.md)
+
+## API Reference
+
+- [API Reference](./api-reference/api-reference.md)
